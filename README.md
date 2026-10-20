@@ -77,6 +77,10 @@ Skin-App/
 
    Aplikasi terbuka di `http://localhost:8501`.
 
+## Deployment
+
+Web juga dapat diakses melalui https://skin-app-diseases.streamlit.app/
+
 ## Dataset
 
 **Dataset:** [Classification of Skin Diseases (Kaggle)](https://www.kaggle.com/datasets/sponishflea/classification-of-skin-diseases), 1.494 gambar dalam 5 kelas.
