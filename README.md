@@ -1,4 +1,4 @@
-# Skin Check
+# Skin App
 
 Aplikasi web untuk klasifikasi awal kondisi kulit dari foto, dibangun dengan Streamlit dan model deep learning berbasis MobileNetV3 Small.
 
